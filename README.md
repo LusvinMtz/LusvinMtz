@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Lusvin%20Martinez&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20%7C%20Ingenieria%20en%20Sistemas&descAlignY=60&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=50&lines=Laravel+%26+Livewire+Developer+%F0%9F%9A%80;Administrador+de+bases+de+datos+%F0%9F%97%84%EF%B8%8F;Soporte+y+sistemas+internos+%F0%9F%9B%A0%EF%B8%8F;Hecho+en+Guatemala+%F0%9F%87%AC%F0%9F%87%B9" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=50&lines=Laravel+%26+Livewire+Developer;Administrador+de+bases+de+datos;Soporte+y+sistemas+internos;Hecho+en+Guatemala" />
 
 <br/>
 
@@ -14,15 +14,15 @@
 
 ---
 
-## 👨‍💻 Sobre mi
+## <img src="https://img.icons8.com/fluency/32/user-male-circle.png" width="28" /> Sobre mi
 
-🎓 Estudiante de Ingeniería en Sistemas en la Universidad Mariano Gálvez<br>
-🌐 Construyo sistemas web con Laravel, Livewire y PHP<br>
-🗄️ Trabajo con bases de datos Sybase SQL Anywhere y MySQL<br>
-📊 Reportes, soporte y automatización de sistemas internos<br>
-🤖 Explorando agentes virtuales con IA y n8n
+<img src="https://img.icons8.com/fluency/24/graduation-cap.png" width="20" /> Estudiante de Ingeniería en Sistemas en la Universidad Mariano Gálvez<br>
+<img src="https://img.icons8.com/fluency/24/internet.png" width="20" /> Construyo sistemas web con Laravel, Livewire y PHP<br>
+<img src="https://img.icons8.com/fluency/24/database.png" width="20" /> Trabajo con bases de datos Sybase SQL Anywhere y MySQL<br>
+<img src="https://img.icons8.com/fluency/24/combo-chart.png" width="20" /> Reportes, soporte y automatización de sistemas internos<br>
+<img src="https://img.icons8.com/fluency/24/artificial-intelligence.png" width="20" /> Explorando agentes virtuales con IA y n8n
 
-## 🧰 Tecnologías
+## <img src="https://img.icons8.com/fluency/32/toolbox.png" width="28" /> Tecnologías
 
 <div align="center">
 
@@ -30,23 +30,23 @@
 
 </div>
 
-## 🚀 Proyectos destacados
+## <img src="https://img.icons8.com/fluency/32/rocket.png" width="28" /> Proyectos destacados
 
 <div align="center">
 
-### 🎓 CRM Academia
+### <img src="https://img.icons8.com/fluency/32/classroom.png" width="26" /> CRM Academia
 
 CRM para gestión de academia
 
 [![Ver proyecto](https://img.shields.io/badge/Ver_proyecto-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LusvinMtz/CRM_Academia_Sistegua)
 
-### 🏫 CRM Demo Esteca
+### <img src="https://img.icons8.com/fluency/32/conference.png" width="26" /> CRM Demo Esteca
 
 Gestión de eventos y asistencia
 
 [![Ver proyecto](https://img.shields.io/badge/Ver_proyecto-7B2FF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LusvinMtz/CRM_Demo_esteca)
 
-### 💬 Propuesta Whatsapp
+### <img src="https://img.icons8.com/fluency/32/whatsapp.png" width="26" /> Propuesta Whatsapp
 
 Landing page de propuesta
 
@@ -58,7 +58,7 @@ Landing page de propuesta
 
 <div align="center">
 
-⭐ Gracias por visitar mi perfil ⭐
+<img src="https://img.icons8.com/fluency/24/star.png" width="20" /> Gracias por visitar mi perfil <img src="https://img.icons8.com/fluency/24/star.png" width="20" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" />
 
