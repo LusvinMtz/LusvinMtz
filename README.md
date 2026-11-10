@@ -58,8 +58,6 @@ Landing page de propuesta
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/24/star.png" width="20" /> Gracias por visitar mi perfil <img src="https://img.icons8.com/fluency/24/star.png" width="20" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" />
 
 </div>
