@@ -1,15 +1,49 @@
-# Hola, soy Lusvin 👋
+<div align="center">
 
-Estudiante de Ingeniería en Sistemas (UMG) y desarrollador web en Guatemala.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Lusvin%20Martinez&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20%7C%20Ingenieria%20en%20Sistemas&descAlignY=60&descSize=20" width="100%" />
 
-## Qué hago
-- 🌐 Sistemas web con Laravel, Livewire y PHP
-- 🗄️ Bases de datos: Sybase SQL Anywhere, MySQL
-- 📊 Reportes y soporte de sistemas internos
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=50&lines=Laravel+%26+Livewire+Developer+%F0%9F%9A%80;Administrador+de+bases+de+datos+%F0%9F%97%84%EF%B8%8F;Soporte+y+sistemas+internos+%F0%9F%9B%A0%EF%B8%8F;Hecho+en+Guatemala+%F0%9F%87%AC%F0%9F%87%B9" />
 
-## Stack
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=LusvinMtz&label=Visitas&style=for-the-badge&color=blueviolet" />
+<img src="https://img.shields.io/badge/UMG-Ingenieria%20en%20Sistemas-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Guatemala-El%20Progreso-CE1126?style=for-the-badge" />
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mi
+
+🎓 Estudiante de Ingeniería en Sistemas en la Universidad Mariano Gálvez<br>
+🌐 Construyo sistemas web con Laravel, Livewire y PHP<br>
+🗄️ Trabajo con bases de datos Sybase SQL Anywhere y MySQL<br>
+📊 Reportes, soporte y automatización de sistemas internos<br>
+🤖 Explorando agentes virtuales con IA y n8n
+
+## 🧰 Tecnologías
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git,github,linux,vscode&perline=10" />
+
+</div>
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción |
+|---|---|
+| [CRM_Academia_Sistegua](https://github.com/LusvinMtz/CRM_Academia_Sistegua) | 🎓 CRM para academia |
+| [CRM_Demo_esteca](https://github.com/LusvinMtz/CRM_Demo_esteca) | 🏫 Gestión de eventos y asistencia |
+| [PropuestaWhatsapp](https://github.com/LusvinMtz/PropuestaWhatsapp) | 💬 Landing page de propuesta |
+
+---
+
+<div align="center">
+
+⭐ Gracias por visitar mi perfil ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" />
+
+</div>
