@@ -32,11 +32,27 @@
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Descripción |
-|---|---|
-| [CRM_Academia_Sistegua](https://github.com/LusvinMtz/CRM_Academia_Sistegua) | 🎓 CRM para academia |
-| [CRM_Demo_esteca](https://github.com/LusvinMtz/CRM_Demo_esteca) | 🏫 Gestión de eventos y asistencia |
-| [PropuestaWhatsapp](https://github.com/LusvinMtz/PropuestaWhatsapp) | 💬 Landing page de propuesta |
+<div align="center">
+
+### 🎓 CRM Academia
+
+CRM para gestión de academia
+
+[![Ver proyecto](https://img.shields.io/badge/Ver_proyecto-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LusvinMtz/CRM_Academia_Sistegua)
+
+### 🏫 CRM Demo Esteca
+
+Gestión de eventos y asistencia
+
+[![Ver proyecto](https://img.shields.io/badge/Ver_proyecto-7B2FF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LusvinMtz/CRM_Demo_esteca)
+
+### 💬 Propuesta Whatsapp
+
+Landing page de propuesta
+
+[![Ver proyecto](https://img.shields.io/badge/Ver_proyecto-25D366?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LusvinMtz/PropuestaWhatsapp)
+
+</div>
 
 ---
 
