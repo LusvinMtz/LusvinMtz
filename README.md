@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Lusvin 👋
 
-<!--
-**LusvinMtz/LusvinMtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas (UMG) y desarrollador web en Guatemala.
 
-Here are some ideas to get you started:
+## Qué hago
+- 🌐 Sistemas web con Laravel, Livewire y PHP
+- 🗄️ Bases de datos: Sybase SQL Anywhere, MySQL
+- 📊 Reportes y soporte de sistemas internos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Estadísticas
+![Stats](https://github-readme-stats.vercel.app/api?username=LusvinMtz&show_icons=true&theme=dark)
